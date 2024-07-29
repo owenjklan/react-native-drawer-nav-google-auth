@@ -1,4 +1,4 @@
-package info.owenjklan.authexample
+package com.example.app
 
 import android.app.Application
 import com.facebook.react.PackageList

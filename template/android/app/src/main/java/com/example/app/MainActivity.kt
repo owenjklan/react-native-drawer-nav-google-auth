@@ -1,4 +1,4 @@
-package info.owenjklan.authexample
+package com.example.app
 
 import com.facebook.react.ReactActivity
 import com.facebook.react.ReactActivityDelegate
