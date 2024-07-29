@@ -37,7 +37,7 @@ Google OAuth2 credentials configuration.
 
 ```shell
 react-native init \
-    --package-name com.example \  # This will need to match your app package in Google's OAuth setup
+    --package-name com.example \
     --title 'App Title' \
     --pm npm \
     --template 'https://github.com/owenjklan/react-native-template-drawer-nav-config.git'
