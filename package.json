@@ -1,0 +1,8 @@
+{
+    "name": "react-native-template-drawer-nav-config",
+    "version": "0.0.1",
+    "description": "React Native Template, including Drawer Navigation with a configuration context and Settings screen.",
+    "repository": "git@github.com:owenjklan/react-native-template-drawer-nav-config.git",
+    "author": "contact@owenjklan.info",
+    "license": "MIT"
+}
