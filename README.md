@@ -44,6 +44,12 @@ Google OAuth2 credentials configuration.
     <YourProjectName>`
 ```
 
+Android projects do not appear to be correctly setting the application name string.
+This is the name of the application that will be seen with the app icon when
+it is installed on a user's device. This can be easily changed by updating the
+value of `<string name="app_name">` inside `android/app/src/main/res/values/strings.xml`
+
+
 ---
 
 ### **NOTE:** This template has not been developed or tested on iOS.
